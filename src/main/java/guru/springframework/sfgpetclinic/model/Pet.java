@@ -11,5 +11,4 @@ public class Pet {
 	private Owner owner;
 	private LocalDate birthDate;
 
-
 }
