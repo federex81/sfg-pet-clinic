@@ -9,10 +9,6 @@
 	</parent>
 	<artifactId>pet-clinic-data</artifactId>
 	
-	<properties>
-		<start-class>guru.springframework.sfgpetclinic.SfgPetClinicApplication</start-class>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
